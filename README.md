@@ -1,6 +1,8 @@
-# Tic-Tac-Toe Challenge 🕹️
+# Tic-Tac-Toe Challenge 🕹️ [Live Here](https://brieucdegoussencourt.github.io/tic-tac-toe/)
 
 ## A simple game made with REACT
+
+
 
 This [tutorial](https://fr.react.dev/learn/tutorial-tic-tac-toe) is guiding me through some core React concepts, like building components, managing state, and passing data via props—all while creating a fun, interactive game!
 
